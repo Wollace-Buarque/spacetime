@@ -53,7 +53,7 @@ npm run ios
 npm run start
 ```
 
-### WEB
+### Front-end
 
 Para executar o site utilizamos o Next 13.
 
@@ -71,3 +71,17 @@ cp .env.example .env
 # Subir o site
 npm run start
 ```
+
+### Imagens
+
+<div>
+  <img src="https://github.com/Wollace-Buarque/spacetime/blob/master/screenshots/home.png?raw=true" width="32%" />
+  <img src="https://github.com/Wollace-Buarque/spacetime/blob/master/screenshots/memories.png?raw=true" width="32%" />
+  <img src="https://github.com/Wollace-Buarque/spacetime/blob/master/screenshots/create.png?raw=true" width="32%" />
+</div>
+
+<div>
+  <img src="https://github.com/Wollace-Buarque/spacetime/blob/master/screenshots/home%20mobile.png?raw=true" width="32%" />
+  <img src="https://github.com/Wollace-Buarque/spacetime/blob/master/screenshots/memories%20mobile.png?raw=true" width="32%" />
+  <img src="https://github.com/Wollace-Buarque/spacetime/blob/master/screenshots/create%20mobile.png?raw=true" width="32%" />
+</div>
