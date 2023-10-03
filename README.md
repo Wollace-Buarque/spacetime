@@ -57,8 +57,6 @@ npm run start
 
 Para executar o site utilizamos o Next 13.
 
-Após configurar o ambiente mobile, você pode abrir o emulador e executar o projeto de acordo com a plataforma que estiver utilizando:
-
 ```sh
 cd apps/web
 
